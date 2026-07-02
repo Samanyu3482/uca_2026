@@ -43,7 +43,8 @@
 *.su
 *.idb
 *.pdb
-
+# Java compiles files
+*.class
 # Kernel Module Compile Results
 *.mod*
 *.cmd
