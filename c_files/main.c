@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-int main(){
-	printf("Hello from c program!\n");
+int main (){
+	
+	printf("Hello World\n");
 	return 0;
+
+
 }
+
