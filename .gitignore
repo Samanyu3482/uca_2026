@@ -56,3 +56,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+# Ignore everything in these folders except .c files
+c_files/sortingAlgo/*
+!c_files/sortingAlgo/*.c
+
+c_files/prac/*
+!c_files/prac/*.c
