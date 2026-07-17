@@ -62,3 +62,11 @@ c_files/sortingAlgo/*
 
 c_files/prac/*
 !c_files/prac/*.c
+# Ignore everything inside c_files
+c_files/**
+
+# But keep the directories
+!c_files/**/
+
+# Keep only C source files
+!c_files/**/*.c
