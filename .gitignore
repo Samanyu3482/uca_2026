@@ -70,3 +70,4 @@ c_files/**
 
 # Keep only C source files
 !c_files/**/*.c
+!c_files/**/*.sql
